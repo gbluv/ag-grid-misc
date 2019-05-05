@@ -12,4 +12,4 @@ Shows an example of how to preselect rows programatically
 
 [Node Selection API:](https://www.ag-grid.com/javascript-grid-selection/#node-selection-api)
 
-Example Row Class Rules: https://www.ag-grid.com/javascript-grid-row-styles/#example-row-class-rules
+[Example Row Class Rules:](https://www.ag-grid.com/javascript-grid-row-styles/#example-row-class-rules)
